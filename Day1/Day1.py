@@ -4,7 +4,7 @@ elfMax = []
 elfHi  = 0
 elfLo  = 0
 
-with open('Day1/input.txt') as file:
+with open('input.txt') as file:
     lines = file.readlines()
 
 for line in lines:
