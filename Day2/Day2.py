@@ -1,8 +1,6 @@
-iElf      = 0
 iElfLimit = 3
 lines     = []
 topElfs   = []
-elfHi     = 0
 elfCal    = 0
 
 def topElfCalc(cal):
