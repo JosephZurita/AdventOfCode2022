@@ -27,7 +27,7 @@ def topElfCalc(cal):
     topElfs.insert(iElfPos, cal)
     topElfs.pop(iElfLen)
 
-with open('input.txt') as file:
+with open('Day1/input.txt') as file:
     lines = file.readlines()
 
 for line in lines:
