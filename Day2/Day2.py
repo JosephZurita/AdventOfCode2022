@@ -42,9 +42,3 @@ for line in lines:
 
 print(topElfs)
 print(sum(topElfs))
-
-
-    
-    
-    
-

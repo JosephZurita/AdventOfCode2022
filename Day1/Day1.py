@@ -27,4 +27,3 @@ for line in lines:
 
 print(elfMax)
 print(elfHi)
-    
